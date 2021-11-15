@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Kevin!!
 
-When I'm not coding, I like to hit the weightroom, cook a nice meal for my fam or go play hockey with my friends!
+When I'm not coding, I like to hit the weightroom, cook a nice meal for my fam or go play hockey with my friends!\
 I am currently learning React and Redux while also working on my project, Clean Kut's, with my team.
 
 <!--
