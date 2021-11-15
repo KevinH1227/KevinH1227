@@ -1,9 +1,9 @@
-### Hi there 👋 my name is Kevin!!
+## Hi there 👋 my name is Kevin!!
 
-## When I'm not coding, I like to hit the weightroom, cook a nice meal for my fam or go play hockey with my friends!\
+When I'm not coding, I like to hit the weightroom, cook a nice meal for my fam or go play hockey with my friends!\
 I am currently working on my project, Clean Kut's, with my team adding cool new features and testing like crazy!
 
-Get in touch
+## Get in touch
 
 <!--
 **KevinH1227/KevinH1227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
