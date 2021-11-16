@@ -5,6 +5,7 @@ I am currently working on my project, Clean Kut's, with my team adding cool new 
 
 ## Get in touch
 
+<a href="mailto:khookumchand@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <!--
 **KevinH1227/KevinH1227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
