@@ -14,9 +14,6 @@ I am currently working on my project, Clean Kut's, with my team adding cool new 
 ## I'm Currently Learning ##
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"> 
 
-## My current project working with my amazing team
-* <a href="https://github.com/KevinH1227/Clean_Kuts">Clean Kut's</a> - An app that focuses on creating a seemless relationship between the client and barber
-
 <!-- ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinH1227&show_icons=true&theme=dark) -->
 
 ## Get in touch
