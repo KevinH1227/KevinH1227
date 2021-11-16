@@ -17,8 +17,7 @@ I am currently working on my project, Clean Kut's, with my team adding cool new 
 ## I'm Currently Learning
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"> 
 
-## My Favorite Project Repos
+## My Favorite Project Repo
 * <a href="https://github.com/KevinH1227/Clean_Kuts">Clean Kut's</a> - A barber and client interface
-* <a href="https://github.com/KevinH1227/Weather-app">Weather-app</a> - Simple weather app
 
 ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinH1227&show_icons=true&theme=dark)
