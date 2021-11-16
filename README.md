@@ -21,3 +21,4 @@ I am currently working on my project, Clean Kut's, with my team adding cool new 
 * <a href="https://github.com/KevinH1227/Clean_Kuts">Clean Kut's</a> - A barber and client interface
 * <a href="https://github.com/KevinH1227/Weather-app">Weather-app</a> - Simple weather app
 
+![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kungojung&show_icons=true&theme=dark)
