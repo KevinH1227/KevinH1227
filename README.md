@@ -1,7 +1,7 @@
 ## Hi there 👋 my name is Kevin!!
 
 When I'm not coding, I like to\
-🏋 hit the 🏾‍♂️weightroom\
+🏋 hit the weightroom\
 🍽 cook a nice meal for my fam or \
 🏒 go play hockey with my friends!\
 I am currently working on my project, sciClean Kut's, with my team adding cool new features and testing like crazy!
