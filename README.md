@@ -7,6 +7,7 @@ I am currently working on my project, Clean Kut's, with my team adding cool new 
 
 <a href="mailto:khookumchand@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/kevin-hookumchand/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.kevin-hookumchand.dev"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
 <!--
 **KevinH1227/KevinH1227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
