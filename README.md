@@ -14,7 +14,7 @@ I am currently working on my project, Clean Kut's, with my team adding cool new 
 ## I'm Currently Learning ##
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"> 
 
-<!-- ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinH1227&show_icons=true&theme=dark) -->
+![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinH1227&show_icons=true&theme=dark)
 
 ## Get in touch
 
