@@ -1,4 +1,4 @@
-<h2>Hi there 👋 my name is Kevin!!</h2>
+## Hi there 👋 my name is Kevin!!
 
 When I'm not coding, I like to hit the weightroom, cook a nice meal for my fam or go play hockey with my friends!\
 I am currently working on my project, Clean Kut's, with my team adding cool new features and testing like crazy!
@@ -20,4 +20,4 @@ I am currently working on my project, Clean Kut's, with my team adding cool new 
 ## My Favorite Project Repo
 * <a href="https://github.com/KevinH1227/Clean_Kuts">Clean Kut's</a> - A barber and client app
 
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinH1227&show_icons=true&theme=dark)
+<!-- ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinH1227&show_icons=true&theme=dark) -->
